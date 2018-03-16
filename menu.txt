@@ -1,0 +1,6 @@
+clear screen
+clear
+program time
+time
+airplay using shairport
+sudo apt-get install shairport-sync
